@@ -48,5 +48,6 @@ git clone https://github.com/Karimbappe/Refine_Dashboard.git
 - Create a pull request<br>
 <br>
 
+Many many thanks to Adrian !<br>
 
 All rights reserved - Karim Fraboulet - 2023
