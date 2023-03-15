@@ -5,7 +5,14 @@
 <br>
 
 
-This is a full-stack project built with MongoDB, Express, React, Node.js, Refine, and TypeScript. It is a dashboard designed for real estate agents to manage their properties, view their sales, and perform CRUD operations on their properties.
+This is a full-stack project built with MongoDB, Express, React, Node.js, Refine, and TypeScript. It is a dashboard designed for real estate agents to manage their properties, view their sales, and perform CRUD operations on their properties.<br>
+
+<br>
+Check it yourself : <br>
+https://refine-dashboard-karim.netlify.app/<br>
+
+<br>
+
 
 <h4>Getting Started</h4>
 To get started with this project, you will need to have Node.js and MongoDB installed on your system. Once you have those installed, you can clone the repository :<br>
