@@ -1,14 +1,16 @@
 <h1>Yariga Real Estate Dashboard - refine</h1>
 <br>
 
-<img width="1440" alt="Capture d’écran 2023-03-15 à 13 39 14" src="https://user-images.githubusercontent.com/78148549/225316325-9aab2c0d-6494-471e-8c9a-96acc2b83d33.png"><br>
+<img width="1430" alt="Capture d’écran 2023-03-16 à 15 13 02" src="https://user-images.githubusercontent.com/78148549/225644527-4ff170e8-6cc8-4e24-8863-525d61794f43.png">
 <br>
 <img width="1435" alt="Capture d’écran 2023-03-16 à 14 53 00" src="https://user-images.githubusercontent.com/78148549/225639715-2c6a56c2-51eb-4898-ae8a-6d59f19105cc.png">
 <br>
+<img width="1434" alt="Capture d’écran 2023-03-16 à 15 11 04" src="https://user-images.githubusercontent.com/78148549/225644099-dcebadd5-e663-49f9-95d5-158b3b313d33.png">
+<br>
+<img width="1434" alt="Capture d’écran 2023-03-16 à 15 10 17" src="https://user-images.githubusercontent.com/78148549/225644759-b7247ace-c22d-4d9c-8af4-c24d9a210532.png">
+<br>
+<img width="1434" alt="Capture d’écran 2023-03-16 à 14 53 41" src="https://user-images.githubusercontent.com/78148549/225643977-bfa13f24-dec2-4dac-ab47-f24ab69d30d6.png">
 
-<b<img width="1429" alt="Capture d’écran 2023-03-16 à 14 53 21" src="https://user-images.githubusercontent.com/78148549/225639995-a460957d-7bfe-41f4-9894-863a99cf0e9d.png">
-r>
-<img width="1440" alt="Capture d’écran 2023-03-15 à 13 40 01" src="https://user-images.githubusercontent.com/78148549/225632469-258c1971-7516-48b0-acca-545713264e96.png">
 <br>
 
 This is a full-stack project built with MongoDB, Express, React, Node.js, Refine, and TypeScript. It is a dashboard designed for real estate agents to manage their properties, view their sales, and perform CRUD operations on their properties.<br>
