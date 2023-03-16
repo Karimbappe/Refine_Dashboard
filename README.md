@@ -3,7 +3,8 @@
 
 <img width="1440" alt="Capture d’écran 2023-03-15 à 13 39 14" src="https://user-images.githubusercontent.com/78148549/225316325-9aab2c0d-6494-471e-8c9a-96acc2b83d33.png"><br>
 <br>
-
+<img width="1440" alt="Capture d’écran 2023-03-15 à 13 40 01" src="https://user-images.githubusercontent.com/78148549/225632469-258c1971-7516-48b0-acca-545713264e96.png">
+<br>
 
 This is a full-stack project built with MongoDB, Express, React, Node.js, Refine, and TypeScript. It is a dashboard designed for real estate agents to manage their properties, view their sales, and perform CRUD operations on their properties.<br>
 
