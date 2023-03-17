@@ -1,6 +1,7 @@
 <h1>Yariga Real Estate Dashboard - refine</h1>
 <br>
-
+<img width="1436" alt="Capture d’écran 2023-03-17 à 14 17 37" src="https://user-images.githubusercontent.com/78148549/225915734-7c467802-f51e-4799-a187-5b6e520a7c16.png">
+<br>
 <img width="1430" alt="Capture d’écran 2023-03-16 à 15 13 02" src="https://user-images.githubusercontent.com/78148549/225644527-4ff170e8-6cc8-4e24-8863-525d61794f43.png">
 <br>
 <img width="1435" alt="Capture d’écran 2023-03-16 à 14 53 00" src="https://user-images.githubusercontent.com/78148549/225639715-2c6a56c2-51eb-4898-ae8a-6d59f19105cc.png">
